@@ -1,4 +1,3 @@
 
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+# Full-Stack Web Applications with Firebase
+A quick node project for the Full-Stack Web Applications with Firebase course.
